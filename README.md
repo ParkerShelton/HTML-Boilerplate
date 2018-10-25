@@ -9,7 +9,7 @@
 ## About:
 This is a simple boilerplate for a HTML webpage. It comes with some built in features to help with developing your page.
 
-### USING: 
+### Using: 
 Go to the directory you want your project in and run ```git clone https://github.com/ParkerShelton/HTML-Boilerplate.git projectName```. Replace projectName with the name of your project.
 
 Then all you have to do is run ```npm i``` inside your new project directory and get to work!
