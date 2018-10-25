@@ -2,6 +2,7 @@
   "name": "@tiezeehc/html-boilerplate",
   "version": "1.0.0",
   "description": "Creates a simple html boilerplate",
+  "repository": "https://github.com/ParkerShelton/HTML-Boilerplate/",
   "scripts": {
     "start": "concurrently -k \"npm run dev\" \"npm run watch-css\"",
     "dev": "lite-server",
