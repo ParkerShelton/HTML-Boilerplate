@@ -3,7 +3,6 @@
   "version": "1.0.0",
   "description": "Creates a simple html boilerplate",
   "scripts": {
-    "install": "./setup.bash",
     "start": "concurrently -k \"npm run dev\" \"npm run watch-css\"",
     "dev": "lite-server",
     "build-css": "node-sass -w ./assets/scss/ -o ./assets/css/",
